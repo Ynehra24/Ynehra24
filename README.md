@@ -10,49 +10,24 @@
 ### 👋 Hi there
 - 🔭 Working on: LLM apps, RAG systems, and production ML pipelines
 - ⚡ Interests: model efficiency, evaluation, and observability
-- 🌱 Learning: JAX, vector DB internals, and advanced serving
-- 💬 Ask me about: PyTorch, TensorFlow, FastAPI, RAG, LangChain, MLOps
-- 📫 Reach me: add your links below
+- 🌱 Learning: Advanced ML concepts, MLOps, creative ML use 
+- 💬 Ask me about: PyTorch, FastAPI, RAG
 
 ### 🚀 What I do
-- Design end‑to‑end ML systems (data → features → training → eval → deploy)
-- Build LLM apps: retrieval, tool use, agents, and evals
-- MLOps: experiment tracking, CI/CD, model registry, monitoring, drift
-- Optimize inference: quantization, batching, Triton/ONNX, caching
+- Design ML models (data → features → training → eval → enjoy)
 
 ### 🧰 Tools
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="34" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="34" alt="PyTorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="34" alt="TensorFlow" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="34" alt="Jupyter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="34" alt="FastAPI" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="34" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="34" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="34" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="34" alt="GCP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="34" alt="Postgres" />
 </p>
-
-### 🏗️ Featured projects
-- [LLM RAG Starter](https://github.com/YOUR_USERNAME/llm-rag-starter) — ingestion, chunking, embeddings, retrieval, and evals
-- [ML Pipeline Template](https://github.com/YOUR_USERNAME/ml-pipeline-template) — data prep, training, tracking (W&B/MLflow), and CI
-- [Model Serving Boilerplate](https://github.com/YOUR_USERNAME/model-serving) — FastAPI + batch/bulk inference, logging, metrics
-
-### 📊 Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ynehra24&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub stats" />
-  <img src="https://streak-stats.demolab.com?user=Ynehra24&theme=tokyonight&hide_border=true" height="160" alt="GitHub streak" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ynehra24&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top languages" />
-</div>
 
 ### 🤝 Connect
 <p>
-  <a href="https://www.linkedin.com/in/YOUR_HANDLE/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:YOUREMAIL@example.com"><img src="https://img.shields.io/badge/Email-ef4444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://YOUR-PORTFOLIO.link"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="www.linkedin.com/in/yatharth-nehra"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:yatharthnehra24@gmail.com"><img src="https://img.shields.io/badge/Email-ef4444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <!-- Footer banner -->

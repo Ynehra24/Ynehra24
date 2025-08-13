@@ -1,5 +1,5 @@
 <!-- Top banner (SVG safe: no raw & in values) -->
-![header](https://capsule-render.vercel.app/api?type=waving&height=240&text=Yatharth%20Nehva&fontAlign=50&fontAlignY=35&color=0:0ea5e9,100:6366f1&fontColor=ffffff&desc=Machine%20Learning%20Engineer%20%7C%20MLOps%20%7C%20LLMs%20%2B%20GenAI&descAlign=50&descAlignY=58)
+![header](https://capsule-render.vercel.app/api?type=waving&height=240&text=Yatharth%20Nehra&fontAlign=50&fontAlignY=35&color=0:0ea5e9,100:6366f1&fontColor=ffffff&desc=Machine%20Learning%20Engineer%20%7C%20MLOps%20%7C%20LLMs%20%2B%20GenAI&descAlign=50&descAlignY=58)
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=22D3EE&center=true&vCenter=true&width=900&lines=I+train+and+deploy+ML+models+end-to-end;LLMs%2C+RAG%2C+and+Agents+in+production;MLOps:+tracking%2C+CI%2FCD%2C+monitoring">
